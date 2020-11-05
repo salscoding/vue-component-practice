@@ -1,5 +1,12 @@
 # vue-component-practice
 
+Second mini project from the Udemy course "Vue - The Complete Guide (w/ Router, Vuex, Composition API)"
+
+## Preview
+
+![Preview Gif](ScreenShots/ss.gif)
+
+
 ## Project setup
 ```
 yarn install
